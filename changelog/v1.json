@@ -3154,7 +3154,7 @@
   },
   {
     "children": {
-      "improvements": ["Seperate user keyVaults encrpyto from user model."]
+      "improvements": ["Separate user keyVaults encryption from user model."]
     },
     "date": "2024-12-20",
     "version": "1.36.40"
