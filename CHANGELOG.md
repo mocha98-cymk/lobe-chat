@@ -11710,7 +11710,7 @@
 
 #### ♻ Code Refactoring
 
-- **misc**: Seperate user keyVaults encrpyto from user model.
+ - **misc**: Separate user keyVaults encryption from user model.
 
 <br/>
 
@@ -11719,7 +11719,7 @@
 
 #### Code refactoring
 
-- **misc**: Seperate user keyVaults encrpyto from user model, closes [#5102](https://github.com/lobehub/lobe-chat/issues/5102) ([09b63cf](https://github.com/lobehub/lobe-chat/commit/09b63cf))
+ - **misc**: Separate user keyVaults encryption from user model, closes [#5102](https://github.com/lobehub/lobe-chat/issues/5102) ([09b63cf](https://github.com/lobehub/lobe-chat/commit/09b63cf))
 
 </details>
 
